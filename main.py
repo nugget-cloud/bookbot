@@ -4,6 +4,7 @@ from stats import (
     get_chars_dict,
 )
 import sys
+import os
 
 def main():
     if len(sys.argv) < 2:
